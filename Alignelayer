@@ -1,0 +1,12 @@
+[2024-06-18T13:52:03Z INFO  aligned] WebSocket handshake has been successfully completed
+[2024-06-18T13:52:13Z INFO  aligned] Message sent...
+[2024-06-18T13:53:18Z INFO  aligned] Batcher response received:
+    Batch inclusion response {
+        ○ batch merkle root: 9b302c7560a028e9904588d1b4a6449b1216d2444d275e5e9d609398fd0ab37d
+        ○ proof commitment: c181e470901eecf693bfa6f0e89e837dcf35700cdd91c210a0ce0660e8674208
+    }
+[2024-06-18T13:53:18Z INFO  aligned] Proof submitted to aligned. See the batch in the explorer:
+    https://explorer.alignedlayer.com/batches/0x9b302c7560a028e9904588d1b4a6449b1216d2444d275e5e9d609398fd0ab37d
+[2024-06-18T13:53:18Z INFO  aligned] Batch inclusion data written into /home/omprakashor/aligned_verification_data/9b302c7560a028e9904588d1b4a6449b1216d2444d275e5e9d609398fd0ab37d_59.json
+[2024-06-18T13:53:18Z INFO  aligned] All messages responded. Closing connection...
+omprakashor@ROUT:~$
